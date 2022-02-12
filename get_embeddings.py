@@ -13,7 +13,7 @@ from tensorflow.keras.layers import Dot, Lambda
 from tensorflow.keras.models import Model
 
 
-DATASET_PATH = "VALIDATION_DATA"
+DATASET_PATH = "DATA"
 SAVED_EMBEDDED_PATH = "embeddings"
 SAMPLES_TO_CONSIDER = 20480
 

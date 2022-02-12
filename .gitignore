@@ -1,2 +1,4 @@
 *.wav
 *.npy
+*__pycache__
+/logs/*
