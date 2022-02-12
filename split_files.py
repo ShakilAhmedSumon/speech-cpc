@@ -14,3 +14,7 @@ with open(FILENAME, 'r') as fin:
                 os.makedirs(DEST + line.strip().split('/')[0])
             shutil.move(SRC + line.strip(), DEST + line.strip())
 
+
+
+
+
